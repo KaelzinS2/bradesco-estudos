@@ -6,3 +6,4 @@
 * comando git pull
 * comando git add
 * comando git remove
+* comando git edit
